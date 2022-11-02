@@ -3,6 +3,7 @@
 	text-indent: -22px;
 }
 
+/* https://stackoverflow.com/a/11142257 */
 :target {
    background-color: #ffa;
 }
