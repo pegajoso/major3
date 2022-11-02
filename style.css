@@ -3,6 +3,6 @@
 	text-indent: -22px;
 }
 
-#jackler-ayoub-2018:target, #jackler-li-cardiff-ramamurthi-2019:target {
+:target {
    background-color: #ffa;
 }
