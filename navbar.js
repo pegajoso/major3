@@ -3,7 +3,7 @@
 //   30Oct2022: https://getbootstrap.com/docs/4.0/examples/product/
 
 document.body.onload = addNavbar;
-const files = ["Welcome", "Glossary", "Gallery", "Citations"];
+const files = ["Welcome", "Approach", "Glossary", "Gallery", "Sources", "Citations"];
 
 // creates elements and appends to beginning of body
 // code base is from example in
