@@ -46,6 +46,7 @@ function createGallery() {
         newImg.setAttribute("class", "figure-img img-fluid rounded");
         newImg.setAttribute("title", datum.alt);
         newImg.setAttribute("alt", datum.alt);
+        newImg.setAttribute("id", datum.src);
         newFigure.appendChild(newImg);
 
         const newTextAlt = document.createTextNode("(" + datum.alt + ")");

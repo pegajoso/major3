@@ -1,0 +1,2 @@
+The ZIP file should contain the same information as https://pegajoso.github.io/major3/welcome.html, in case of no internet connection.
+If you have opened the website before, some information may be cached and changes may not be shown. For this reason, it is best to try to open the files from the ZIP file.
